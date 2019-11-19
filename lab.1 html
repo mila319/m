@@ -48,6 +48,9 @@
  <body>
   <div id="container">
    <div id="header">Сайт-звіт Туряниці Людмили</div>
+   <h1>Звіт до лабораторної роботи №1. Текстовий редактор.</h1>
+    Переглянути результат роботи можна за посиланням:
+   <a href="https://docs.google.com/document/d/1yiPya_DCojGthJFOZEZZWBAaVvxzSSE42VgE9iae5YU/edit?usp=sharing"></a>
    <div id="sidebar">
     <p><a href="index.html">Домашня сторінка</a></p>
     <p><a href="lab.1 html">Робота з текстом</a></p>
